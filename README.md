@@ -22,6 +22,3 @@ The analysis uses data originally collected by Oliveira et al. for their paper "
 - Analysis suggests increasing integration of niche artists into mainstream collaborations, particularly from genres like reggaeton, K-pop, and Brazilian funk
 - Major shifts in network structure were observed after week 38 (late September)
 
-## Citation
-If you use this work, please cite: 
-Clark (2024). "A Comparison of Distance Metrics: Exploring Temporal Music Collaboration Networks." Oxford Internet Institute, University of Oxford. Data Driven Network Science, Hilary Term 2024.
