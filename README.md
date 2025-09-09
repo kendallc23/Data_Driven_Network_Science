@@ -4,7 +4,7 @@ This project analyzes collaboration patterns in global popular music using netwo
 
 ## Project Structure
 - Final_code.ipynb: Main analysis notebook, including data processing, network construction, visualization, and distance metrics.
-  - **Note:** I initially forgot to set up a random seed. This means that the exact visual configurations of the LCC graphs (e.g. graph shapes, or colors assigned to nodes) may look different from my figures, if you run the notebook. However, the essential characteristics of the graphs and the distance metric computations will be the same. 
+  - **Note:** I forgot to set up a random seed. This means that the exact visual configurations of the LCC graphs (e.g. graph shapes, or colors assigned to nodes) may look different from my figures, if you run the notebook. However, the essential characteristics of the graphs and the distance metric computations will be the same. 
 - networks_data folder: 
   - spotify_artists.csv: Artist metadata (name, popularity, genres).
   - global_2017.csv: Collaboration data for charting songs in 2017 (collaborating artists: artist_1 and artist_2, number of collaborations: count, and song_ids).
